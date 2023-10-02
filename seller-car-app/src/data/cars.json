@@ -1,0 +1,239 @@
+[
+  {
+    "id": 1,
+    "name": "Toyota RAV4",
+    "Year": 2001,
+    "fuel": "Hybrid",
+    "sits": 4,
+    "speed": 6.1,
+    "transformation": "Automatic",
+    "payment": 440,
+    "image": "https://media.istockphoto.com/id/1372025981/photo/front-view-of-grey-toyota-rav4-parked-in-the-street.jpg?s=612x612&w=0&k=20&c=Nh-YV1d818w28n0NqnK__KlAg9G_DjGOso5jK05WltA="
+  },
+  {
+    "id": 2,
+    "name": "BMW 3 Series",
+    "Year": 2019,
+    "fuel": "gasoline",
+    "sits": 4,
+    "speed": 8.2,
+    "transformation": "Automatic",
+    "payment": 350,
+    "image": "https://media.istockphoto.com/id/501773342/photo/bmw-e90-318i.jpg?s=612x612&w=0&k=20&c=z1YX41rM_kyG6GODk57RpVKRV7JbaQsDZThHgTu9BGU="
+  },
+  {
+    "id": 3,
+    "name": "Volkswagen T-cross",
+    "Year": 2020,
+    "fuel": "gasoline",
+    "sits": 4,
+    "speed": 5.3,
+    "transformation": "Automatic",
+    "payment": 400,
+    "image": "https://media.istockphoto.com/id/1404926911/photo/volkswagen-t-cross-next-to-the-river.jpg?s=612x612&w=0&k=20&c=LCvV_t7NlWvXh_ZgYf39Ef7kQq3C3OQlvPQCz5vhGLU="
+  },
+
+  {
+    "id": 4,
+    "name": "Cadilac Escalade",
+    "Year": 2020,
+    "fuel": "gasoline",
+    "sits": 4,
+    "speed": 7.7,
+    "transformation": "Automatic",
+    "payment": 620,
+    "image": "https://media.istockphoto.com/id/890251228/photo/cadillac-escalade.jpg?s=612x612&w=0&k=20&c=REbr5-D7hfTHllP6RyCQkipJc6waBiWntOwzMlyMSMI="
+  },
+
+  {
+    "id": 5,
+    "name": "BMW 4 Series GTI",
+    "Year": 2021,
+    "fuel": "gasoline",
+    "sits": 4,
+    "speed": 7.6,
+    "transformation": "Automatic",
+    "payment": 530,
+    "image": "https://media.istockphoto.com/id/1132647858/photo/bmw-6-series-big-coupe.jpg?s=612x612&w=0&k=20&c=cDOh08-n2iaAGLZ4U-jPkvbrsfa0n5E77W4duzygNbA="
+  },
+  {
+    "id": 6,
+    "name": "BMW 4 Series",
+    "Year": 2019,
+    "fuel": "gasoline",
+    "sits": 4,
+    "speed": 7.2,
+    "transformation": "Automatic",
+    "payment": 490,
+    "image": "https://media.istockphoto.com/id/1338314978/photo/a-bmw-4-series-sports-car-parked-along-a-road-in-rural-alberta.jpg?s=612x612&w=0&k=20&c=PMT2s8NLxIx5KZzNXk2nr6vaOlZu_yD7x6aJTQXXxGA="
+  },
+  {
+    "id": 7,
+    "name": "Toyota Rava 4",
+    "Year": 2020,
+    "fuel": "gasoline",
+    "sits": 4,
+    "speed": 6.8,
+    "transformation": "Automatic",
+    "payment": 440,
+    "image": "https://media.istockphoto.com/id/1164832846/photo/front-view-of-toyota-rav4-2015-year-in-white-color-after-cleaning-before-sale-on-parking-auto.jpg?s=612x612&w=0&k=20&c=t2PDTApCtAjyP7HoKgz0sdMI0l6Z2Gh0ZoEpdErQi-Y="
+  },
+  {
+    "id": 1,
+    "name": "Toyota RAV4",
+    "Year": 2001,
+    "fuel": "Hybrid",
+    "sits": 4,
+    "speed": 6.1,
+    "transformation": "Automatic",
+    "payment": 440,
+    "image": "https://media.istockphoto.com/id/1372025981/photo/front-view-of-grey-toyota-rav4-parked-in-the-street.jpg?s=612x612&w=0&k=20&c=Nh-YV1d818w28n0NqnK__KlAg9G_DjGOso5jK05WltA="
+  },
+  {
+    "id": 2,
+    "name": "BMW 3 Series",
+    "Year": 2019,
+    "fuel": "gasoline",
+    "sits": 4,
+    "speed": 8.2,
+    "transformation": "Automatic",
+    "payment": 350,
+    "image": "https://media.istockphoto.com/id/501773342/photo/bmw-e90-318i.jpg?s=612x612&w=0&k=20&c=z1YX41rM_kyG6GODk57RpVKRV7JbaQsDZThHgTu9BGU="
+  },
+  {
+    "id": 3,
+    "name": "Volkswagen T-cross",
+    "Year": 2020,
+    "fuel": "gasoline",
+    "sits": 4,
+    "speed": 5.3,
+    "transformation": "Automatic",
+    "payment": 400,
+    "image": "https://media.istockphoto.com/id/1404926911/photo/volkswagen-t-cross-next-to-the-river.jpg?s=612x612&w=0&k=20&c=LCvV_t7NlWvXh_ZgYf39Ef7kQq3C3OQlvPQCz5vhGLU="
+  },
+
+  {
+    "id": 4,
+    "name": "Cadilac Escalade",
+    "Year": 2020,
+    "fuel": "gasoline",
+    "sits": 4,
+    "speed": 7.7,
+    "transformation": "Automatic",
+    "payment": 620,
+    "image": "https://media.istockphoto.com/id/890251228/photo/cadillac-escalade.jpg?s=612x612&w=0&k=20&c=REbr5-D7hfTHllP6RyCQkipJc6waBiWntOwzMlyMSMI="
+  },
+
+  {
+    "id": 5,
+    "name": "BMW 4 Series GTI",
+    "Year": 2021,
+    "fuel": "gasoline",
+    "sits": 4,
+    "speed": 7.6,
+    "transformation": "Automatic",
+    "payment": 530,
+    "image": "https://media.istockphoto.com/id/1132647858/photo/bmw-6-series-big-coupe.jpg?s=612x612&w=0&k=20&c=cDOh08-n2iaAGLZ4U-jPkvbrsfa0n5E77W4duzygNbA="
+  },
+  {
+    "id": 6,
+    "name": "BMW 4 Series",
+    "Year": 2019,
+    "fuel": "gasoline",
+    "sits": 4,
+    "speed": 7.2,
+    "transformation": "Automatic",
+    "payment": 490,
+    "image": "https://media.istockphoto.com/id/1338314978/photo/a-bmw-4-series-sports-car-parked-along-a-road-in-rural-alberta.jpg?s=612x612&w=0&k=20&c=PMT2s8NLxIx5KZzNXk2nr6vaOlZu_yD7x6aJTQXXxGA="
+  },
+  {
+    "id": 7,
+    "name": "Toyota Rava 4",
+    "Year": 2020,
+    "fuel": "gasoline",
+    "sits": 4,
+    "speed": 6.8,
+    "transformation": "Automatic",
+    "payment": 440,
+    "image": "https://media.istockphoto.com/id/1164832846/photo/front-view-of-toyota-rav4-2015-year-in-white-color-after-cleaning-before-sale-on-parking-auto.jpg?s=612x612&w=0&k=20&c=t2PDTApCtAjyP7HoKgz0sdMI0l6Z2Gh0ZoEpdErQi-Y="
+  },
+  {
+    "id": 1,
+    "name": "Toyota RAV4",
+    "Year": 2001,
+    "fuel": "Hybrid",
+    "sits": 4,
+    "speed": 6.1,
+    "transformation": "Automatic",
+    "payment": 440,
+    "image": "https://media.istockphoto.com/id/1372025981/photo/front-view-of-grey-toyota-rav4-parked-in-the-street.jpg?s=612x612&w=0&k=20&c=Nh-YV1d818w28n0NqnK__KlAg9G_DjGOso5jK05WltA="
+  },
+  {
+    "id": 2,
+    "name": "BMW 3 Series",
+    "Year": 2019,
+    "fuel": "gasoline",
+    "sits": 4,
+    "speed": 8.2,
+    "transformation": "Automatic",
+    "payment": 350,
+    "image": "https://media.istockphoto.com/id/501773342/photo/bmw-e90-318i.jpg?s=612x612&w=0&k=20&c=z1YX41rM_kyG6GODk57RpVKRV7JbaQsDZThHgTu9BGU="
+  },
+  {
+    "id": 3,
+    "name": "Volkswagen T-cross",
+    "Year": 2020,
+    "fuel": "gasoline",
+    "sits": 4,
+    "speed": 5.3,
+    "transformation": "Automatic",
+    "payment": 400,
+    "image": "https://media.istockphoto.com/id/1404926911/photo/volkswagen-t-cross-next-to-the-river.jpg?s=612x612&w=0&k=20&c=LCvV_t7NlWvXh_ZgYf39Ef7kQq3C3OQlvPQCz5vhGLU="
+  },
+
+  {
+    "id": 4,
+    "name": "Cadilac Escalade",
+    "Year": 2020,
+    "fuel": "gasoline",
+    "sits": 4,
+    "speed": 7.7,
+    "transformation": "Automatic",
+    "payment": 620,
+    "image": "https://media.istockphoto.com/id/890251228/photo/cadillac-escalade.jpg?s=612x612&w=0&k=20&c=REbr5-D7hfTHllP6RyCQkipJc6waBiWntOwzMlyMSMI="
+  },
+
+  {
+    "id": 5,
+    "name": "BMW 4 Series GTI",
+    "Year": 2021,
+    "fuel": "gasoline",
+    "sits": 4,
+    "speed": 7.6,
+    "transformation": "Automatic",
+    "payment": 530,
+    "image": "https://media.istockphoto.com/id/1132647858/photo/bmw-6-series-big-coupe.jpg?s=612x612&w=0&k=20&c=cDOh08-n2iaAGLZ4U-jPkvbrsfa0n5E77W4duzygNbA="
+  },
+  {
+    "id": 6,
+    "name": "BMW 4 Series",
+    "Year": 2019,
+    "fuel": "gasoline",
+    "sits": 4,
+    "speed": 7.2,
+    "transformation": "Automatic",
+    "payment": 490,
+    "image": "https://media.istockphoto.com/id/1338314978/photo/a-bmw-4-series-sports-car-parked-along-a-road-in-rural-alberta.jpg?s=612x612&w=0&k=20&c=PMT2s8NLxIx5KZzNXk2nr6vaOlZu_yD7x6aJTQXXxGA="
+  },
+  {
+    "id": 7,
+    "name": "Toyota Rava 4",
+    "Year": 2020,
+    "fuel": "gasoline",
+    "sits": 4,
+    "speed": 6.8,
+    "transformation": "Automatic",
+    "payment": 440,
+    "image": "https://media.istockphoto.com/id/1164832846/photo/front-view-of-toyota-rav4-2015-year-in-white-color-after-cleaning-before-sale-on-parking-auto.jpg?s=612x612&w=0&k=20&c=t2PDTApCtAjyP7HoKgz0sdMI0l6Z2Gh0ZoEpdErQi-Y="
+  }
+]

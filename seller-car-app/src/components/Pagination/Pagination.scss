@@ -1,0 +1,58 @@
+.pagination{
+    width: 90vw;
+    background-color: #e6eaec;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    margin: auto;
+    padding: 15px 20px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    .indicator{
+        p{
+            color: #00000087;
+        }
+    }
+
+    .controls{
+        display: flex;
+        flex-direction: row;
+        gap: 10px;
+        align-items: center;
+
+        .page-numbers{
+            display: flex;
+            flex-direction: row;
+            color: rgba(0, 0, 0, 0.65);
+            
+            button{
+                width: 30px;
+            height: 30px;
+            background-color: #fcfdfd;
+            box-shadow: 1px 1px 4px rgba(0,0,0,0.2);
+            border-radius: 5px;
+            
+            font-size: 14px;
+            margin-left: 10px
+           ;
+            }
+
+
+        }
+
+        .icon{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 30px;
+            height: 30px;
+            color: #00000081;
+            background-color: #fcfdfd;
+            box-shadow: 1px 1px 4px rgba(0,0,0,0.2);
+            border-radius: 5px;
+            size: 4px;
+            font-weight: 500;
+        }
+    }
+}
