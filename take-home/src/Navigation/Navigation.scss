@@ -1,0 +1,62 @@
+.nav-bar{
+    background-color: transparent;
+    display: flex;
+
+   width: 1300px;
+   margin: auto;
+   padding: 20px 0px;
+   justify-content: space-between;
+    
+
+    .cities{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+
+        .active-button{
+            background-color: #096bd5;
+            color: #fff;
+            border-radius: 25px;
+            border: none;
+            padding: 10px 20px;
+            margin-left: 25px;
+            cursor: pointer;
+            transition: .3s all ease;
+        }
+
+        .button{
+            border: none;
+            padding: 10px 20px;
+            margin-left: 25px;
+            background-color: #0000000b;
+            border-radius: 25px;
+            font-weight: 700;
+            color: #000000b0;
+            cursor: pointer;
+            transition: .3s all ease;
+            &:hover{
+                background-color: #d3d1d1e1;
+            }
+        }
+       
+
+    }
+
+    .view-all{
+        color: #096bd5;
+        border-radius: 25px;
+        border: 1px solid #096bd5;
+        padding: 10px 30px;
+        transition: all .4s ease;
+        display: flex;
+        justify-content: center;
+        gap: 10px;
+        font-weight: 700;
+
+        &:hover{
+            background-color: #096bd5;
+            color: #fff;
+            
+        }
+    }
+}

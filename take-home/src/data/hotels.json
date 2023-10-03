@@ -1,0 +1,169 @@
+[
+    { 
+        "id": 1, 
+        "name": "ITC Grand Central, a Luxury Collection Hotel",
+        "location": "India, Mumbia",
+        "city": "Mumbai",
+        "rooms": 3,
+        "beds" : 4,
+        "bath": 1,
+        "stf": 732,
+        "price": "7,255",
+        "image1" : "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465558636.jpg?k=1d9c8be7157d3df6eefa17633e247465b9c41beb5e1c2d81d11896b7a51996d9&o=&hp=1",
+        "image2": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465558661.jpg?k=357a8af0cec868a005b0fbe25cde4ff7c8e31f5e7dc84c93d7b1e10d07770868&o=&hp=1",
+        "image3": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465558682.jpg?k=c2a63af4a6b65aca053738fa56003a4dc1bfa9d8c210a8897868dd316afe2bca&o=&hp=1"
+
+     },
+
+
+    { 
+        "id": 2, 
+        "name": "JW Marriott Mumbai Sahar Airport",
+        "city": "Mumbai",
+        "location": " IA Project Road, 400099 Mumbai",
+        "rooms": 2,
+        "beds" : 4,
+        "bath": 1,
+        "stf": 762,
+        "price": "9,255",
+        "image1" : "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465549681.jpg?k=8c903ab7bf0fd906a3fe7b456463805c4026db2dab6706341a83d385160f0f9b&o=&hp=1",
+        "image2": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465549708.jpg?k=2392cf97496d515827309e51fbd468aa88c9aaae394d6fb465401924d9899e04&o=&hp=1",
+        "image3": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/465549793.jpg?k=f646b7dd46d2ebf875786fe64b0f77bad4015ff329c3de029b57e53b1d3e9b3d&o=&hp=1"
+
+     },
+     {
+
+     "id": 3, 
+     "name": "Hotel Sahara Star-Mumbai Airport",
+     "location": "Opposite Domestic Airport, Vileparle",
+     "city": "Mumbai",
+     "rooms": 2,
+     "beds" : 4,
+     "bath": 1,
+     "stf": 762,
+     "price": "9,255",
+     "image1" : "https://cf.bstatic.com/xdata/images/hotel/max1024x768/152817920.jpg?k=9f036dd39771672c736048df4b4ff00aeea57b64bc81bfe144e5b56f19d5d395&o=&hp=1",
+     "image2": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/59728363.jpg?k=332bdc8bdcdac02b5834113640ddae17d4f916084467658afc7541362e68cf13&o=&hp=1",
+     "image3": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/59728339.jpg?k=49395dec23add5c832af97b82825c35aa89fc6f83a0746c1d0d55942c4c3d1d1&o=&hp=1"
+
+  },
+  {
+
+    "id": 4, 
+    "name": "Circa Resort & Casino - Adults Only",
+    "location": " Fremont Street, Las Vegas, NV 89101",
+    "city": "Lass Vegas",
+    "rooms": 3,
+    "beds" : 3,
+    "bath": 1,
+    "stf": 2362,
+    "price": "14,255",
+    "image1" : "https://cf.bstatic.com/xdata/images/hotel/max1024x768/283369311.jpg?k=8d3bb6c8251136550bbb719c4c4639d5b444ed5ac6effecba9d627e920fe68ac&o=&hp=1",
+    "image2": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/283369274.jpg?k=2877e45974f40e1797ef6ec5842e3762c45c897207e075957bf4af783c27abb1&o=&hp=1",
+    "image3": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/284322429.jpg?k=54d28a4d054c2f3b5c774a1061cbf0d0f7ab2be573aeef929083c1a50ce78967&o=&hp=1"
+
+ },
+ {
+
+    "id": 5, 
+    "name": "Treasure Island - TI Las Vegas Hotel & Casino, a Radisson Hotel",
+    "location": "3300 Las Vegas Boulevard South",
+    "city": "Lass Vegas",
+    "rooms": 2,
+    "beds" : 1,
+    "bath": 2,
+    "stf": 3332,
+    "price": "3,355",
+    "image1" : "https://cf.bstatic.com/xdata/images/hotel/max1024x768/63000008.jpg?k=db57f803df379a2202d58ad05723d9c00f72e0a0ebd55a06c61f184168d61e14&o=&hp=1",
+    "image2": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/321718433.jpg?k=d652345d8214100529ff868a9801553d39c211db5bb5d7e2a74a2eab040e4193&o=&hp=1",
+    "image3": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/7758483.jpg?k=4658d5f7a768da1255c63a3e001fda2e8d4928578483cec47a48ff55901b4d8d&o=&hp=1"
+
+ },
+    
+ {
+
+    "id": 7, 
+    "name": "Jet Luxury at The Signature Condo Hotel",
+    "location": "135 East Harmon Avenue, Las Vegas Strip",
+    "city": "Lass Vegas",
+    "rooms": 3,
+    "beds" : 2,
+    "bath": 2,
+    "stf": 1342,
+    "price": "14,155",
+    "image1" : "https://cf.bstatic.com/xdata/images/hotel/max1024x768/30427901.jpg?k=9c2ae5aaa24a459a2ebfb0dfcffb645e8708ac670e9861ce9a6542dac0861a42&o=&hp=1",
+    "image2": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/413666450.jpg?k=9ef93bea41baaa747e5b8a0645c99d81e89ea795b51895ac98092b9855ecffda&o=&hp=1",
+    "image3": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/413666455.jpg?k=ffef9eaaf51c857539cde6b991f85f748ce820899a106b13221c3d58010f3cfe&o=&hp=1"
+
+ },
+
+ {
+
+    "id": 8, 
+    "name": "",
+    "location": "4321 West Flamingo Road, Las Vegas, ",
+    "city": "Lass Vegas",
+    "rooms": 3,
+    "beds" : 2,
+    "bath": 2,
+    "stf": 1222,
+    "price": "15,255",
+    "image1" : "https://cf.bstatic.com/xdata/images/hotel/max1024x768/128939640.jpg?k=9bfd98fc28a3fee8394eaf175765baf207e82eedd62614b38c073e51733b5a30&o=&hp=1",
+    "image2": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/192577429.jpg?k=110cfc615c1832fed536a8dd82df1e151b84c3712ac85ee5a4bcc89b2cbfa33a&o=&hp=1",
+    "image3": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/192577626.jpg?k=3d4f4fe8be7569c28494b1a51d68bbfb8ccd14237d4750e5e8be970dfd44d7ca&o=&hp=1"
+
+ },
+ {
+
+    "id": 9, 
+    "name": "citizenM Miami Brickell, Miami, FL 3313",
+    "location": "11 SE 10 Street, Brickell, ",
+    "city": "Miami",
+    "rooms": 4,
+    "beds" : 2,
+    "bath": 3,
+    "stf": 2242,
+    "price": "25,255",
+    "image1" : "https://cf.bstatic.com/xdata/images/hotel/max1024x768/438102338.jpg?k=e3f2456391cb4f2f61e2f21ac24e2186eefd284f283eb6a5bccfc8aef22cfad7&o=&hp=1",
+    "image2": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/381855804.jpg?k=7706a7af4e0f72d7e4479cbce601c597628ea778d1448f5dbd2b5aafe615ed44&o=&hp=1",
+    "image3": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383888808.jpg?k=23a035fa27c502306416456ae930a9da4385871bd69029d2a835cc01a73c6088&o=&hp=1"
+
+ },
+ {
+
+    "id": 10, 
+    "name": "citizenM Miami Worldcenter",
+    "location": "700 Northeast 2nd Avenue, Miami",
+    "city": "Miami",
+    "rooms": 3,
+    "beds" : 2,
+    "bath": 2,
+    "stf": 2142,
+    "price": "22,155",
+    "image1" : "https://cf.bstatic.com/xdata/images/hotel/max1024x768/446284270.jpg?k=e2c3b387cc2521a0e0d61edbc810c9beca8dcc6e4ff8cadd1b5d873cad78ae27&o=&hp=1",
+    "image2": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/417736786.jpg?k=301bf051c853e7c2556a0873721d07e8c40eb677d37c06ad55acbfbb224867cd&o=&hp=1",
+    "image3": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/417736810.jpg?k=8ca16553a7097672dbb91217310ad662979551264524be31ce271bcfe99e0fa3&o=&hp=1"
+
+ },
+
+ {
+
+    "id": 11, 
+    "name": "Mayfair House Hotel & Garden",
+    "location": "3000 Florida Avenue, Coconut Grove",
+    "city": "Miami",
+    "rooms": 2,
+    "beds" : 1,
+    "bath": 2,
+    "stf": 2142,
+    "price": "20,155",
+    "image1" : "https://cf.bstatic.com/xdata/images/hotel/max1024x768/419418250.jpg?k=2dc9c05d39f11f337ace7a1e9e3224c9eee5aaf7ad1cd653538a9bb42657c51f&o=&hp=1",
+    "image2": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/411472581.jpg?k=7e3dd39f80d47cf9ad70dc47dbe2c4c9fc544b8c7b032e5201eb0160e95bdf02&o=&hp=1",
+    "image3": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/466833392.jpg?k=bf114d96317d519665832b7663fb0c4f3927953d16868aa062aa19b685a4e63c&o=&hp=1"
+
+ }
+
+
+  ]
+
+  

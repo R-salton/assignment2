@@ -1,0 +1,160 @@
+
+
+
+  
+   
+    .card{
+        width: 400px;
+        height: 520px;
+        background-color: #fff;
+        box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+        border-radius: 10px;
+        padding: 10px;
+       
+    
+        .card-contents{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            
+    
+            .card-header{
+                width: 100%;
+                position: relative;
+                margin: auto;
+                color: #2073d2;
+                display: flex;
+                justify-content: center;
+               
+    
+                img{
+                    width: 100%;
+                    height: 250px;
+                    object-fit: cover;
+                    border-radius: 10px;
+                }
+    
+                .for-rent{
+                    position: absolute;
+                    top: 8px;
+                   width: 90%;
+                   display: flex;
+                   justify-content: space-between;
+                   top: 20px;
+                   align-items: center;
+    
+                   .forent-btn{
+                    background-color: #fff;
+                    border: none;
+                    padding: 10px 20px;
+                    color: #2073d2;
+                    font-weight: 700;
+                    border-radius: 25px;
+                    font-size: 18px;
+                   }
+    
+                   .icon{
+                    font-size: 22px;
+                    font-weight: 700;
+                    padding: 8px 8px;
+                    background-color: #fff;
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    border-radius: 50%;
+                   
+                    
+                   }
+                   
+    
+                   
+                }
+            }
+    
+            .card-details{
+                width: 95%;
+                
+    
+                .location{
+                    display: flex;
+                    gap: 3px;
+                    align-items: center;
+                    margin-top: 8px;
+                .loc-icon{
+                    font-size: 22px;
+                    color: #f2ac3b;
+                }
+    
+                p{
+                    font-weight: 400;
+                    color: rgba(0,0,0,0.6);
+                }
+                    
+                }
+                h2{
+                    color: rgba(0, 0, 0, 0.75);
+                    font-size: 16px;
+                }
+    
+                .specification{
+    
+                    display: flex;
+                    width: 90%;
+                   align-items: center;
+                    margin-top: 10px;
+    
+                    .spec-item{
+                        padding: 10px 5px;
+                        margin-left: 20px;
+                        line-height: 8px;
+                        color: rgba(0, 0, 0, 0.75);
+                        font-weight: 500;
+                        p{
+                            font-size: 14px;
+                        }
+                        .spec-icon{
+                            font-size: 22px;
+                        }
+                    }
+                }
+    
+                .footer{
+                    display: flex;
+                    justify-content: space-between;
+                   align-items: center;
+                    margin: 8px auto 0px;
+                    
+    
+                    .price{
+                        color: #2073d2;
+                        font-weight: 700;
+                        font-size: 22px;
+                    }
+                    span{
+                        color: rgba(0, 0, 0, 0.75);
+                        font-weight: 500;
+                        font-size: 16px;
+                    }
+                    .read-more{
+                        border: 1px solid #2073d2 ;
+                        padding: 0px 25px;
+                        border-radius: 20px;
+                        display: flex;
+                        justify-content: center;
+                        align-items: center;
+                        .read{
+                            font-size: 14px;
+                            text-decoration: none;
+                            color: #2073d2;
+                            font-weight: 700;
+                        }
+                    }
+                    
+                }
+            }
+        }
+    
+        
+    }
+
