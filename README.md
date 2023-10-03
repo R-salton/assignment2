@@ -16,3 +16,8 @@
 # Second Screen Shoot
 ![active](https://github.com/R-salton/assignment2/assets/84921448/7fe27edf-9cdb-420c-a50f-dee48e9ef278)
 
+# Video
+
+https://github.com/R-salton/assignment2/assets/84921448/b1eb22b1-2be8-48b6-9dd3-861cdb4c688d
+
+
