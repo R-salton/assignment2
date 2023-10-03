@@ -43,7 +43,7 @@ function App() {
     <Route path="/" element={<Navigate to="/page/1" />} /> {/* Use Navigate for redirect */}
       <Route path="/page/1" element={
      
-      <CarList cars={currentCars}
+      <CarList cars={currentCars} 
           // onPageChange={onPageChange} 
           //   currentPage={currentPage} 
           //   totalPages={Math.ceil(cars.length / carsPerPage)} 
